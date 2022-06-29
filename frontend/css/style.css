@@ -1,0 +1,9 @@
+div{
+    line-height: 1.5em;
+}
+
+.required:after {
+    content:" *";
+    color: red;
+}
+
